@@ -8,4 +8,4 @@ At this moment, I like the projects that makee the lives of other programmers ea
 I really enjoy interacting with as many people as possible. If you want to have a coffe-talk or a discussion, here are some ways you can find me 😋
 - Discord: Alexandru Buza#0112
 - Mail: <alexandrumarianbuza@gmail.com>
-- Phone: <+40 785 705 418>
+- Phone: [+40 785 705 418](tel:+40785705418)
