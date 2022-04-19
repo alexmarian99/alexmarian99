@@ -8,5 +8,5 @@ At this moment, I like the projects that make the job of other programmers easie
 
 ### How to reach me 📫
 I really enjoy interacting with as many people as possible. If you want to have a coffe-talk or a discussion, here are some ways you can find me 😋
-- Discord: Alexandru Buza#0112
+- Discord: Sneaky Alec#0112
 - Mail: <alexandrumarianbuza@gmail.com>
