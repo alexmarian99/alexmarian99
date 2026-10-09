@@ -1,12 +1,23 @@
-### Hi there 👋
-I'm Alex, a young who's passions are programming and things that require creativity. My adventure in programming started at the age of 7, and I have decided that this will be my way in my life. At the age of 18, I have discovered that I am also attracted to creative things such as artistic dances, musical instruments, illustrations, art. Since I maintain an equal balance between programming and creative hobies I have an out of the box thinking.
+### Hi, I'm Alex 👋
 
-I'm also a people person. That means, I'm able to inspire and get inspired.
+Software developer from Romania. I started programming at 7 and never really stopped. What I enjoy most is building tools that make other developers faster.
 
-### What apps I like to develop the most ✨
-At this moment, I like the projects that make the job of other programmers easier, or various tools that increase the speed of development.
+**What I'm into lately**
 
-### How to reach me 📫
-I really enjoy interacting with as many people as possible. If you want to have a coffe-talk or a discussion, here are some ways you can find me 😋
-- Discord: Sneaky Alec#0112
-- Mail: <alexandrumarianbuza@gmail.com>
+- 🛠️ **Developer tooling & self-hosting**: my own control panel for containers, reverse proxies, DNS and remote machines.
+- 🤖 **AI-assisted workflows**: connecting coding agents to real tools (chat, Discord, remote PCs) so routine work runs on its own.
+- 🎮 **Games & real-time apps**: multiplayer browser games, Discord bots, and the occasional Unity experiment.
+
+Outside the editor I'm into dance, music and illustration. The creative side keeps the engineering side curious.
+
+**Stack**
+
+TypeScript · JavaScript · Node.js · React · Java · C# · C/C++ · Swift · Docker · nginx
+
+**Collaborations**
+
+I've contributed to community and team projects such as [CleanCode's e-learning platform](https://github.com/CleanCodeRo/ELearningPlatform_Frontend) (React + Java) and [Learn2Learn](https://github.com/HoriaMitrica/Learn2Learn).
+
+**Say hi** 📫
+
+Always happy to talk code, tools or ideas over a coffee: <alexandrumarianbuza@gmail.com>
